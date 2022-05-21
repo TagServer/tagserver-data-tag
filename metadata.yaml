@@ -1,5 +1,7 @@
 homepage: https://cmkt.digital/tagserver-plug-play-solution-facebook-conversion-api-capi/?utm_source=gtm&utm_campaign=community-gallery
 documentation: https://github.com/TagServer/tagserver-data-tag/wiki
-releases:
+versions:
+  # Latest version
   - sha: fefbe2104166a38cc22fc0bc100d590e3b559f59
     changeNotes: Initial release.
+  # Older versions
