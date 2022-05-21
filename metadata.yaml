@@ -2,6 +2,6 @@ homepage: https://cmkt.digital/tagserver-plug-play-solution-facebook-conversion-
 documentation: https://github.com/TagServer/tagserver-data-tag/wiki
 versions:
   # Latest version
-  - sha: fefbe2104166a38cc22fc0bc100d590e3b559f59
+  - sha: 9337860c0d5947335de415a084e199a9bede6e0e
     changeNotes: Initial release.
   # Older versions
